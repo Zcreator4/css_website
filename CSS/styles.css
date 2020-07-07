@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Assistant', sans-serif;
+}
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+    font-family: 'Indie Flower', cursive;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #b4f2e1;
+    padding-top: 100px;
+    position: relative;
+}
+.beginner {
+    color: skyblue;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.basketball {
+    border-radius: 100%;
+}
+.coding {
+    border-radius: 100%;
+}
+.phone {
+    margin-top: 0;
+}
+.barrack {
+    border-radius: 100%;
+}
